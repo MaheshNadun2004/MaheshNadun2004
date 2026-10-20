@@ -57,18 +57,32 @@
 
 ## 💻 Programming Languages
 
-<div align="center">
-
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/></a>
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/></a>
-<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="48" alt="C"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="48" alt="C sharp"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript"/></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/></a>
-
-</div>
+<p align="center">
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.java.com/" title="Java">
+    <img src="https://skillicons.dev/icons?i=java" width="55" alt="Java"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://en.cppreference.com/w/c" title="C">
+    <img src="https://skillicons.dev/icons?i=c" width="55" alt="C"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#">
+    <img src="https://skillicons.dev/icons?i=cs" width="55" alt="C#"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+    <img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+    <img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS3"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" width="55" alt="JavaScript"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL"/>
+  </a>
+</p>
 
 ---
 
