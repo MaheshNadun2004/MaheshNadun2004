@@ -70,6 +70,9 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#">
     <img src="https://skillicons.dev/icons?i=cs" width="55" alt="C#"/>
   </a>&nbsp;&nbsp;
+  <a href="https://isocpp.org/" title="C++">
+    <img src="https://skillicons.dev/icons?i=cpp" width="55" alt="C++"/>
+  </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
     <img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5"/>
   </a>&nbsp;&nbsp;
