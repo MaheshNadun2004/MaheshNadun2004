@@ -164,22 +164,6 @@ Learn web application security and document vulnerabilities in controlled, autho
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MaheshNadun2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshNadun2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F7FF&text_color=FFFFFF" alt="Most used languages"/>
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshNadun2004&theme=tokyonight&hide_border=true&background=050816&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub contribution streak"/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MaheshNadun2004&bg_color=050816&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Animation
 
 <div align="center">
@@ -212,7 +196,7 @@ Learn web application security and document vulnerabilities in controlled, autho
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:082f49,100:020617&height=120&section=footer&animation=fadeIn" alt="Animated footer"/>
 
-### `💻 LEARN • PRACTICE • SECURE • REPEAT 🔐`
+### `💻 LEARN • PRACTICE • SECURE 🔐`
 
 **Building skills. Breaking barriers. Securing the digital world.**
 
