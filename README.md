@@ -1,16 +1,202 @@
-## Hi there 👋
 
-<!--
-**MaheshNadun2004/MaheshNadun2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ═══════════════ CYBERSECURITY HEADER ═══════════════ -->
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:082f49,100:00F7FF&height=220&section=header&text=MAHESH%20NADUN&fontSize=42&fontColor=00F7FF&fontAlignY=35&desc=CYBERSECURITY%20%7C%20ETHICAL%20HACKING&descSize=16&descAlignY=55&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Penetration+Tester;Cybersecurity+Enthusiast+%F0%9F%94%90;Learning+Ethical+Hacking;Exploring+Network+Security;Learn+%E2%80%A2+Practice+%E2%80%A2+Secure" alt="Typing animation" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=MaheshNadun2004&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="250" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Cybersecurity animation" />
+
+- 🎓 BICT Undergraduate at the University of Vavuniya
+- 🔐 Aspiring Penetration Tester
+- 🐧 Learning Linux, Networking, and Ethical Hacking
+- 🛠️ Practicing with Kali Linux, Nmap, and Wireshark
+- 🎯 Building hands-on cybersecurity projects
+- 📚 Exploring offensive and defensive security
+
+<br clear="right"/>
+
+---
+
+## 🛡️ Cybersecurity Tools & Technologies
+
+<div align="center">
+
+<a href="https://www.kali.org/">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+</a>
+<a href="https://nmap.org/">
+<img src="https://img.shields.io/badge/Nmap-004370?style=for-the-badge&logoColor=white" alt="Nmap"/>
+</a>
+<a href="https://www.wireshark.org/">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+</a>
+<a href="https://www.metasploit.com/">
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white" alt="Metasploit"/>
+</a>
+<a href="https://www.linux.org/">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</a>
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</a>
+
+</div>
+
+## 💻 Programming Languages
+
+<div align="center">
+
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="48" alt="C"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="48" alt="C sharp"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/></a>
+
+</div>
+
+---
+
+## 🎯 Current Learning Goals
+
+<div align="center">
+
+| Area | Learning Focus |
+|:---|:---|
+| 🔎 Networking | Reconnaissance and Port Scanning |
+| 🌐 Web Security | OWASP Top 10 |
+| 🐧 Linux | Command Line and Administration |
+| 🧪 Penetration Testing | Authorized Vulnerability Assessment |
+| 📡 Network Analysis | Wireshark and Packet Analysis |
+| 🐍 Python | Security Automation |
+
+</div>
+
+---
+
+## 🧪 Hands-on Practice
+
+<div align="center">
+
+<a href="https://tryhackme.com/">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+</a>
+
+<a href="https://overthewire.org/wargames/">
+<img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=linux&logoColor=white" alt="OverTheWire"/>
+</a>
+
+<a href="https://portswigger.net/web-security">
+<img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logoColor=white" alt="PortSwigger"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔎 Network Reconnaissance Lab
+
+Practice network scanning and traffic analysis using Nmap and Wireshark in a controlled lab.
+
+**Tools:** Nmap · Wireshark · Kali Linux
+
+</td>
+<td width="50%">
+
+### 🐍 Python Security Tools
+
+Beginner-friendly Python scripts for networking, port scanning, and security automation.
+
+**Tools:** Python · Socket · Networking
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🌐 Web Vulnerability Testing Lab
+
+Learn web application security and document vulnerabilities in controlled, authorized environments.
+
+**Focus:** OWASP Top 10 · Testing · Reporting
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MaheshNadun2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshNadun2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F7FF&text_color=FFFFFF" alt="Most used languages"/>
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshNadun2004&theme=tokyonight&hide_border=true&background=050816&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub contribution streak"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MaheshNadun2004&bg_color=050816&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/MaheshNadun2004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/maheshnadun2004/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://tryhackme.com/">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:082f49,100:020617&height=120&section=footer&animation=fadeIn" alt="Animated footer"/>
+
+### `💻 LEARN • PRACTICE • SECURE • REPEAT 🔐`
+
+**Building skills. Breaking barriers. Securing the digital world.**
+
+</div>
