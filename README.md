@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=MaheshNadun2004&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" alt="Profile views" />
+
 
 </div>
 
