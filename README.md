@@ -125,7 +125,7 @@
 </div>
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 <table>
@@ -164,6 +164,8 @@ Learn web application security and document vulnerabilities in controlled, autho
 
 ---
 
+!-->
+
 ## 🐍 Contribution Animation
 
 <div align="center">
@@ -197,7 +199,5 @@ Learn web application security and document vulnerabilities in controlled, autho
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:082f49,100:020617&height=120&section=footer&animation=fadeIn" alt="Animated footer"/>
 
 ### `💻 LEARN • PRACTICE • SECURE 🔐`
-
-**Building skills. Breaking barriers. Securing the digital world.**
 
 </div>
